@@ -1,0 +1,27 @@
+{
+  "name": "yareli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Globabee/yareli-discord.git"
+  },
+  "keywords": [],
+  "author": "Globabee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Globabee/yareli-discord/issues"
+  },
+  "homepage": "https://github.com/Globabee/yareli-discord#readme",
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.1",
+    "nodemon": "^2.0.16",
+    "warframe.js": "^1.3.3",
+    "wokcommands": "^1.5.3"
+  }
+}
